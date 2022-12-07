@@ -58,8 +58,8 @@
         <div class="blocoexJS">
             <h2 id="exJS">exercicios de JavaScript</h2>
             <ol class="JavaScriptOl">
-                <li><a href="javascript/ex1/index.html"  rel="external" target="_blank">abas window</a></li>
-                <li><a href="javascript/ex2/index.html"  rel="external" target="_blank">soma com abas window</a></li>
+                <li><a href="https://marcelobamaro.github.io/meus-sites/JavaScript/ex1/"  rel="external" target="_blank">abas window</a></li>
+                <li><a href=""  rel="external" target="_blank">soma com abas window</a></li>
                 <li><a href="javascript/ex3/index.html"  rel="external" target="_blank">style com JS</a></li>
                 <li><a href="javascript/ex4/index.html"  rel="external" target="_blank">interação com JS</a></li>
                 <li><a href="javascript/ex5/index.html"  rel="external" target="_blank">calculadora com JS</a></li>
