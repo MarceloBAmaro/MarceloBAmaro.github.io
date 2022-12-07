@@ -58,16 +58,16 @@
         <div class="blocoexJS">
             <h2 id="exJS">exercicios de JavaScript</h2>
             <ol class="JavaScriptOl">
-                <li><a href="https://marcelobamaro.github.io/meus-sites/JavaScript/ex1/"  rel="external" target="_blank">abas window</a></li>
-                <li><a href=""  rel="external" target="_blank">soma com abas window</a></li>
-                <li><a href="javascript/ex3/index.html"  rel="external" target="_blank">style com JS</a></li>
-                <li><a href="javascript/ex4/index.html"  rel="external" target="_blank">interação com JS</a></li>
-                <li><a href="javascript/ex5/index.html"  rel="external" target="_blank">calculadora com JS</a></li>
-                <li><a href="javascript/ex6/index.html"  rel="external" target="_blank">simulação de radar com JS</a></li>
-                <li><a href="javascript/ex7/index.html"  rel="external" target="_blank">cidadania com JS</a></li>
-                <li><a href="javascript/ex8/index.html"  rel="external" target="_blank">serviço eleitoral</a></li>
-                <li><a href="javascript/ex9/index.html"  rel="external" target="_blank">relogio digital com JS</a></li>
-                <li><a href="javascript/ex10/index.html" rel="external" target="_blank">dia da semana com JS</a></li>
+                <li><a href="https://marcelobamaro.github.io/meus-sites/javascript/ex1/"  rel="external" target="_blank">abas window</a></li>
+                <li><a href="https://marcelobamaro.github.io/meus-sites/javascript/ex2/"  rel="external" target="_blank">soma com abas window</a></li>
+                <li><a href="https://marcelobamaro.github.io/meus-sites/javascript/ex3/"  rel="external" target="_blank">style com JS</a></li>
+                <li><a href="https://marcelobamaro.github.io/meus-sites/javascript/ex4/"  rel="external" target="_blank">interação com JS</a></li>
+                <li><a href="https://marcelobamaro.github.io/meus-sites/javascript/ex5/"  rel="external" target="_blank">calculadora com JS</a></li>
+                <li><a href="https://marcelobamaro.github.io/meus-sites/javascript/ex6/"  rel="external" target="_blank">simulação de radar com JS</a></li>
+                <li><a href="https://marcelobamaro.github.io/meus-sites/javascript/ex7/"  rel="external" target="_blank">cidadania com JS</a></li>
+                <li><a href="https://marcelobamaro.github.io/meus-sites/javascript/ex8/"  rel="external" target="_blank">serviço eleitoral</a></li>
+                <li><a href="https://marcelobamaro.github.io/meus-sites/javascript/ex9/"  rel="external" target="_blank">relogio digital com JS</a></li>
+                <li><a href="https://marcelobamaro.github.io/meus-sites/javascript/ex10/" rel="external" target="_blank">dia da semana com JS</a></li>
             </ol>
         </div>
         <h2>desafios de JavaScript</h2>
